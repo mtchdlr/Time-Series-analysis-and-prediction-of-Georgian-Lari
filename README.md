@@ -1,1 +1,1 @@
-# Time-Series-analysis-of-Georgian-Lari
+# Time-Series-analysis-and-prediction-of-Georgian-Lari
